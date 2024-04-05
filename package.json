@@ -1,6 +1,6 @@
 {
   "name": "@yfnote/create-message-formatter",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/src/index.browser.js",
   "types": "dist/src/index.browser.d.ts",
